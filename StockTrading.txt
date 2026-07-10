@@ -1,0 +1,72 @@
+# Stock Trading Platform
+
+## Overview
+
+The Stock Trading Platform is a Java console application that simulates a basic stock market. Users can view available stocks, buy and sell shares, manage their portfolio, and monitor their investment performance.
+
+## Features
+
+* View market stock prices
+* Buy stocks
+* Sell stocks
+* Track investment portfolio
+* Calculate portfolio value
+* Display cash balance
+* Object-Oriented design
+* Console-based interface
+
+## Technologies Used
+
+* Java
+* Object-Oriented Programming (OOP)
+* HashMap
+* Scanner
+
+## Project Structure
+
+```
+StockTradingPlatform.java
+```
+
+## How to Run
+
+Compile:
+
+```bash
+javac StockTradingPlatform.java
+```
+
+Run:
+
+```bash
+java StockTradingPlatform
+```
+
+## Functionalities
+
+* Display available stocks
+* Buy stocks
+* Sell stocks
+* View portfolio
+* Calculate net worth
+* Exit application
+
+## Future Enhancements
+
+* File handling for data persistence
+* Database integration
+* Live stock price simulation
+* Transaction history
+* Java Swing GUI
+
+## Learning Outcomes
+
+* OOP concepts
+* HashMap usage
+* Menu-driven applications
+* Portfolio management
+* Java collections
+
+## Author
+
+Bhuvana Suravarapu
